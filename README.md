@@ -1,2 +1,0 @@
-# fishergriesel
-fishergriesel.com
