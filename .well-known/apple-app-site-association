@@ -6,15 +6,9 @@
           "3726845BCQ.org.listenlocal"
         ],
         "components": [
-          {
-            "/": "/home"
-          },
-          {
-            "/": "/pick"
-          },
-          {
-            "/": "/connect"
-          }
+          { "/": "/home" },
+          { "/": "/pick" },
+          { "/": "/connect" }
         ]
       }
     ]
