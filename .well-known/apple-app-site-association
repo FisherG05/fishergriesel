@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "3726845BCQ.org.listenlocal"
+        ],
+        "components": [
+          {
+            "/": "/home"
+          },
+          {
+            "/": "/pick"
+          },
+          {
+            "/": "/connect"
+          }
+        ]
+      }
+    ]
+  }
+}
